@@ -1,0 +1,20 @@
+<div class="row">
+<!--
+    {{ Object.keys(data.result) }}
+-->
+    <div class="span4">
+        <input type="text" placeholder="marker" ng-model="data.params.marker" />
+        <input type="text" placeholder="delimiter" ng-model="data.params.delimiter" />
+        <button class="btn-large" ng-click="refresh()">Refresh</button>
+    </div>
+    <div class="span8">
+        <ul>
+            <li ng-if="data.result.CommonPrefixes" ng-repeat="datum in data.result.CommonPrefixes | orderBy:predicate:true">
+                <a href="https://s3-eu-west-1.amazonaws.com/{{ data.result.Name + '/' + datum.Prefix }}">{{ data.result.Name + '/' + datum.Prefix }}</a>
+            </li>
+            <li ng-if="!data.result.CommonPrefixes" ng-repeat="datum in data.result.Contents">
+                <a href="https://s3-eu-west-1.amazonaws.com/{{ data.result.Name + '/' + datum.Key }}">{{ data.result.Name + '/' + datum.Key }}</a>
+            </li>
+        </ul>
+    </div>
+</div>
