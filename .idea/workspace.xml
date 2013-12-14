@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75ba0ce8-d2c3-438d-bb6c-82129fa01519" name="Default" comment="idea folder ignored">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="75ba0ce8-d2c3-438d-bb6c-82129fa01519" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="packs.iws" />
@@ -11,7 +10,7 @@
     <file path="/main.html" changelist="75ba0ce8-d2c3-438d-bb6c-82129fa01519" time="1386768818373" ignored="false" />
     <file path="/app.js" changelist="75ba0ce8-d2c3-438d-bb6c-82129fa01519" time="1384197648425" ignored="false" />
     <file path="/GsLinks.js" changelist="75ba0ce8-d2c3-438d-bb6c-82129fa01519" time="1384280144146" ignored="false" />
-    <file path="/Dummy.txt" changelist="75ba0ce8-d2c3-438d-bb6c-82129fa01519" time="1387048084182" ignored="false" />
+    <file path="/Dummy.txt" changelist="75ba0ce8-d2c3-438d-bb6c-82129fa01519" time="1387048114556" ignored="false" />
     <file path="$PROJECT_DIR$/../gs-webui/src/main/java/com/gigaspaces/admin/webui/client/ui/views/community/CommunityWindow.java" changelist="75ba0ce8-d2c3-438d-bb6c-82129fa01519" time="1384254076496" ignored="false" />
     <file path="$PROJECT_DIR$/../gs-webui/src/main/java/com/gigaspaces/admin/webui/client/ui/views/topology/ApplicationMapPanel.java" changelist="75ba0ce8-d2c3-438d-bb6c-82129fa01519" time="1384256414564" ignored="false" />
     <file path="$PROJECT_DIR$/../gs-webui/src/main/java/com/gigaspaces/admin/webui/client/ui/views/community/CommunityMediator.java" changelist="75ba0ce8-d2c3-438d-bb6c-82129fa01519" time="1384254076496" ignored="false" />
@@ -145,7 +144,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.035656404">
+            <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.054455444">
               <folding />
             </state>
           </provider>
@@ -473,7 +472,11 @@
       <created>1387048030470</created>
       <updated>1387048030470</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="idea folder ignored">
+      <created>1387048123084</created>
+      <updated>1387048123084</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -490,7 +493,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -498,7 +501,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19072948" sideWeight="0.6702619" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19072948" sideWeight="0.6707882" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -672,7 +675,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.035656404">
+        <state line="1" column="5" selection-start="11" selection-end="11" vertical-scroll-proportion="0.054455444">
           <folding />
         </state>
       </provider>
